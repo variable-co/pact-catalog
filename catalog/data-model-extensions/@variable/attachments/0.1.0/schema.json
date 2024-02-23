@@ -1,0 +1,18 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://github.com/wbcsd/pact-catalog/blob/main/catalog/data-model-extensions/%40variable/attachments/0.1.0/README.md",
+    "title": "Attachments Data Model Extension (Version 0.1.0-20240222)",
+    "description": "Data model extension for sharing documents associated with a product footprint.",
+    "type": "object",
+    "required": [],
+    "properties": {
+      "url": {
+        "description": "The fully-qualified URL for the document",
+        "type": "string"
+      },
+      "name": {
+        "description": "The name of the document",
+        "type": "string"
+      }
+    }
+  }

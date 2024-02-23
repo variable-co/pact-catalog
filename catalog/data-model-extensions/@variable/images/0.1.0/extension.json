@@ -1,0 +1,21 @@
+{
+  "id": {
+    "namespace": "@variable",
+    "extension_name": "images",
+    "version": "0.1.0"
+  },
+  "name": "Product Images Extension",
+  "files": ["schema.json"],
+  "author": {
+    "name": "Variable",
+    "email": "hello@variable.co",
+    "url": "https://variable.co"
+  },
+  "license": "MIT",
+  "catalog_info": {
+    "summary": "A Pathfinder Data Model Extension for sharing product image data.",
+    "status": "draft",
+    "authors": ["variable"]
+  },
+  "industries": []
+}
